@@ -16,6 +16,6 @@
   "dependencies": {
     "passport": "~0.1.18",
     "express": "~3.4.7",
-    "passport-google": "~0.3.0",
+    "passport-google": "~0.3.0"
   }
 }
