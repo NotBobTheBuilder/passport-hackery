@@ -1,0 +1,21 @@
+{
+  "name": "passport-hackery",
+  "version": "0.0.0",
+  "description": "hackery with passport.js for node authentication",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotBobTheBuilder/passport-hackery"
+  },
+  "author": "Jack Wearden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NotBobTheBuilder/passport-hackery/issues"
+  },
+  "homepage": "https://github.com/NotBobTheBuilder/passport-hackery",
+  "dependencies": {
+    "passport": "~0.1.18",
+    "express": "~3.4.7",
+    "passport-google": "~0.3.0",
+  }
+}
